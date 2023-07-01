@@ -1,0 +1,21 @@
+id_producto,nombre,precio,descripcion
+1,Helado de vainilla,2.5,
+2,Helado de chocolate,2.5,
+3,Helado de fresa,2.5,
+4,Helado de cookies and cream,3.0,
+5,Helado de pistacho,3.0,
+6,Helado de dulce de leche,3.0,Delicioso helado de dulce de leche argentino
+7,Helado de limón,2.5,Refrescante helado de limón con un toque cítrico
+8,Helado de frutas tropicales,3.5,Delicioso helado de mezcla de frutas tropicales
+9,Helado de mango,3.5,Exótico helado de mango con trozos de fruta
+10,Helado de coco,2.5,Cremoso helado de coco con trozos de coco rallado
+11,Helado de menta con chips de chocolate,3.0,Refrescante helado de menta con trozos de chocolate
+12,Helado de avellana,3.0,Delicioso helado de avellana con trozos de nuez
+13,Helado de stracciatella,3.0,Irresistible helado de vainilla con virutas de chocolate
+14,Helado de nata,2.5,Cremoso helado de nata con un suave sabor
+15,Helado de café,2.5,Delicioso helado de café para los amantes del café
+16,Helado de cookies,3.0,Irresistible helado de cookies con trozos de galleta
+17,Helado de yogur con frutas del bosque,3.5,Helado de yogur con una mezcla de frutas del bosque
+18,Helado de chocolate blanco,3.0,Delicioso helado de chocolate blanco cremoso
+19,Helado de tiramisú,3.0,Exquisito helado de tiramisú con sabor a café y bizcochos
+20,Helado de piña colada,3.5,Refrescante helado de piña colada con sabor tropical
